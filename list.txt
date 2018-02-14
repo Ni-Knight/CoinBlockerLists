@@ -1352,7 +1352,7 @@ ico.graft.network
 ico.lydian.io
 id.cryptonator.com
 id.minergate.com
-igrid.org^
+igrid.org
 iisl7wpf.me
 im.forre.st
 images.coinbase.com
